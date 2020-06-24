@@ -1,0 +1,25 @@
+{
+  "planets": [
+    {
+      "id": 1,
+      "title": "Tatooine",
+      "author": "Jean",
+      "nombre habitants": 1000,
+      "superficie": 10000
+    }
+  ],
+  "vaisseaux": [
+    {
+      "id": 1,
+      "modele": "Faucon Millenium",
+      "Nbre de passagers": 50,
+      "prix": 100000
+    },
+    {
+      "modele": "Tartanpion",
+      "Nbre de passagers": 5,
+      "prix": 10,
+      "id": 7
+    }
+  ]
+}
